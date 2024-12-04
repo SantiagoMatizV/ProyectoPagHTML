@@ -11,12 +11,14 @@ img{
 .marco{
     border: 2px solid rgb(0, 186, 152);
 }
-.var{
-    display: flex;
-    flex-direction: row;
+
+
+h1 {
+    text-align: justify;
 }
-h1{
-    text-align: left;
+
+h2, h3{
+    text-align: center;
 }
 
 .nav-item{
