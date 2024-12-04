@@ -18,3 +18,8 @@ img{
 h1{
     text-align: left;
 }
+
+.nav-item{
+    flex-direction: row;
+    text-align: center;
+}
